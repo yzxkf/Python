@@ -25,6 +25,7 @@
     <Compile Include="trap1\demo2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="trap1\demo3.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="trap1\" />
